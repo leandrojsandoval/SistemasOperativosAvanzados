@@ -1,5 +1,5 @@
 # Smart Saw
-Repositorio dedicado al proyecto IoT mediante Arduino y Android.
+Repositorio dedicado al proyecto IoT mediante [Arduino](https://github.com/leandrojsandoval/SistemasOperativosAvanzados/blob/main/TP1_Martes_2.pdf) y [Android](https://github.com/leandrojsandoval/SistemasOperativosAvanzados/blob/main/TP2_Martes_2.pdf).
 
 ## Información de la Asignatura
 * **Materia**: Sistemas Operativos Avanzados (3660)
